@@ -1,6 +1,8 @@
 
 # Phonepe Pulse
-
+Phonepe Pulse with streamlite is a report generation from PhonePe Pulse - Dataset (github)with Aggregated - Aggregated values of various payment categories as shown under Categories section, Map - Total values at the State and District levels, Top - Totals of top States / Districts /Pin Codes  and extracted a required amount of data and made visualization using plotly line graph, bar graph and geo visualizations with animation scale.
+## Demo:
+With this link you can see the execution demo and code explanation.
 ## Workflow:
 - Packages needed(pandas,os,json,sqlalchemy,pysql,Streamlite and extra needful lib's)
 
