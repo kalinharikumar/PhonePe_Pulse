@@ -13,7 +13,7 @@ First part is data cloning, extraction, preprocessing and uploading it to Databa
 - Total Dataset is extracted into 8 Dataframes first.
 
 ### Preprocessing and DB upload
-- Now DataBase connection is made through sqlalchemy libray and a connection engine is created to mysql database in server based platform (planet-scale).
+- Now DataBase connection is made through sqlalchemy libray and a connection engine is created to mysql database in serverless mysql platform (planet-scale).
 - Now its preprocessing time,from the 8 Dataframes needful data is processed for the report visualization purpose.
 - Around 6 Dataframes are created newly and it is uploaded to Database through engine as seperate tables.
 
